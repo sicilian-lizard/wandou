@@ -1,1 +1,2 @@
-# wandou
+# Wandou IME
+Simple, smooth, speedy.
